@@ -510,19 +510,20 @@ section {
   color: #0563bb;
   line-height: 0;
 }
-*/
 
 .LMS-module .content p:last-child {
   margin-bottom: 0;
 }
 
+
 @media (min-width: 992px) {
   .content {
-    /*width: 80%;*/
+    width: 80%;
     padding-left: 75px
   }
 }
 
+*/
 
 /*--------------------------------------------------------------
 # Facts
