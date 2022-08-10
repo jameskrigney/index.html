@@ -865,6 +865,7 @@ section {
 
 .media-portfolio-details .media-portfolio-description p {
   padding: 0;
+  text-align: left;
 }
 
 .iframe {
